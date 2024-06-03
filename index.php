@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.122.0">
-    <title>Cover Template · Bootstrap v5.3</title>
+    <title>Página Inicial</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -23,7 +23,7 @@
         font-size: 1.125rem;
         text-anchor: middle;
         -webkit-user-select: none;
-      }        -moz-user-select: none;
+        -moz-user-select: none;
         user-select: none;
       }
 
@@ -159,9 +159,9 @@
     <div>
       <h3 class="float-md-start mb-0">Cover</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Home</a>
-        <a class="nav-link fw-bold py-1 px-0" href="cadastro.php">Features</a>
-        <a class="nav-link fw-bold py-1 px-0" href="login.php">Contact</a>
+        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#">Página Inicial</a>
+        <a class="nav-link fw-bold py-1 px-0" href="cadastro.php">Cadastro</a>
+        <a class="nav-link fw-bold py-1 px-0" href="login.php">Login</a>
       </nav>
     </div>
   </header>
