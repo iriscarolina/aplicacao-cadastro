@@ -8,7 +8,7 @@ Ao acessar o site, os usuários são recebidos por uma tela de boas-vindas, segu
 
 ## ♾️Fontes Consultadas
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - 🖇️Link para a documentação do Bootstrap
-- Além disso, consultamos projetos anteriores desenvolvidos em outras aulas.
+- Além disso, consultamos projetos anteriores desenvolvidos em outras aulas.  
  
 ## 💻 Tecnologias Utilizadas
 - 🟣HTML 5
