@@ -167,7 +167,8 @@
   </header>
 
   <main class="px-3">
-  <form id="cadastro">
+    <div class="p-3 mb-2">
+  <form class="row g-3">
     
         <div class="coluna-50">
             <div id="colunas">
@@ -203,7 +204,7 @@
   </main>
 
   <footer class="mt-auto text-white-50">
-    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://github.com/iriscarolina" class="text-white">Iris</a>.</p>
   </footer>
 </div>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>

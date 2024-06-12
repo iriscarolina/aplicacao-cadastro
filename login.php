@@ -175,6 +175,7 @@
             <label for="senha">senha:</label><br>
             <input type="password" id="senha" name="senha"><br>
     </P>
+    <button onclick="Validar ()">Enviar</button>
   </main>
 
   <footer class="mt-auto text-white-50">
