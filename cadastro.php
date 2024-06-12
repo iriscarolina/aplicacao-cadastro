@@ -23,7 +23,7 @@
         font-size: 1.125rem;
         text-anchor: middle;
         -webkit-user-select: none;
-      }        -moz-user-select: none;
+        -moz-user-select: none;
         user-select: none;
       }
 
@@ -167,11 +167,39 @@
   </header>
 
   <main class="px-3">
-    <h1>Cover your page.</h1>
-    <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
-    <p class="lead">
-      <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Learn more</a>
+  <form id="cadastro">
+    
+        <div class="coluna-50">
+            <div id="colunas">
+        <p>
+            <label for='nome'>Nome: </label><br>
+            <input type='nome' id='nome'><br>
+        </p>
+        <p>
+            <label for='email'>E-mail:</label><br>
+            <input type='email' id='email' name='email'><br>
+        </p>
+        <p>
+            <label for="fone">Fone:</label><br>
+            <input type="tel" id="fone" name="fone"><br>
+        </p>
+        <p>
+            <label for="dataNasc">Data de Nasc:</label><br>
+            <input type='Data' id='data' name='data'><br>
+        </p>
+        <p>
+            <label for="senha">senha:</label><br>
+            <input type="password" id="senha" name="senha"><br>
+    </P>
+
+          <p>
+            <br><label for="senha2">confirmação de senha: </label><br>
+            <input type="senha2" id="senha2" name="senha2"><br>
     </p>
+        </div>
+    </div>
+    <button onclick="Validar ()">Enviar</button>
+     </form>
   </main>
 
   <footer class="mt-auto text-white-50">
